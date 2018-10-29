@@ -1,0 +1,5 @@
+Entites\Personne.class
+servlets\TestStrutsAction.class
+servlets\TestStrutsActionForm.class
+servlets\TestServlet.class
+test\Get\GetApi.class
